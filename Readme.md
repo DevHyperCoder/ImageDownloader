@@ -16,3 +16,5 @@ Once the GUI pops up, enter the path to download the images (absolute path) and 
 
 ## Contribution and issues 🐛 
 Feel free to open a PR or a Issue or even star it 😇 
+
+Please Note: All images downloaded by this software should be only used for educational use or for fair use
