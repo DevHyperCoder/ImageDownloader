@@ -7,7 +7,7 @@ Under the hood, ```google-images-download``` uses selenium to get the images. ``
 
 ## How to run ❓ 
 1. Clone this repo: ```git clone https://github.com/DevHyperCoder/ImageDownloader.git```
-2. Initialise a virtualenv ```python3 -m virtualenv venv
+2. Initialise a virtualenv ```python3 -m virtualenv venv```
 3. Activate the virtualenv
 4. Install the required packages ```pip install -r requirements.txt```
 5. Run the program ```python run.py```
